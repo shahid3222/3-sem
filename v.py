@@ -16,7 +16,7 @@ class Daughter(Mother):
         return f"Я дочь, зовут {self._name}, мне {self._age} лет"
 
 mother = Mother('')
-daughter = Daughter('', 20)
+daughter = Daughter('', 10)
 
 names = ["Катя", "Оля", "Ира", "Лена", "Таня"]
 
